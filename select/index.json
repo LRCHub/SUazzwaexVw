@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Lamp",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2026-03-19T07:49:05.301815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mood Lamp",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_Mood_Lamp_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mood Lamp",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Mood_Lamp_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Upstairs By A Chinese Lamp",
+      "artist": "Laura Nyro",
+      "has_synced": false,
+      "path": "select/03_Upstairs_By_A_Chinese_Lamp_Laura_Nyro.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lamp Lady",
+      "artist": "Sevdaliza",
+      "has_synced": true,
+      "path": "select/04_Lamp_Lady_Sevdaliza.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Legend of the Lamp",
+      "artist": "Alan Menken",
+      "has_synced": false,
+      "path": "select/05_Legend_of_the_Lamp_Alan_Menken.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burning of the Midnight Lamp",
+      "artist": "The Jimi Hendrix Experience",
+      "has_synced": true,
+      "path": "select/06_Burning_of_the_Midnight_Lamp_The_Jimi_Hendrix_Experience.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lava Lamp",
+      "artist": "Duran Duran",
+      "has_synced": false,
+      "path": "select/07_Lava_Lamp_Duran_Duran.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lava Lamp",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/08_Lava_Lamp_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lava Lamp",
+      "artist": "Thundercat",
+      "has_synced": true,
+      "path": "select/09_Lava_Lamp_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Burning of the Midnight Lamp",
+      "artist": "Living Colour",
+      "has_synced": true,
+      "path": "select/10_Burning_of_the_Midnight_Lamp_Living_Colour.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's Our Lamp",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/11_That's_Our_Lamp_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lamp At Midnite",
+      "artist": "Corey Hart",
+      "has_synced": false,
+      "path": "select/12_Lamp_At_Midnite_Corey_Hart.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lamp",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/13_Lamp_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Leaning On The Lamp Post",
+      "artist": "Herman's Hermits",
+      "has_synced": true,
+      "path": "select/14_Leaning_On_The_Lamp_Post_Herman's_Hermits.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Burning of the Midnight Lamp",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/15_Burning_of_the_Midnight_Lamp_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lamp",
+      "artist": "Co shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_Lamp_Co_shu_Nie.txt"
+    }
+  ]
+}
